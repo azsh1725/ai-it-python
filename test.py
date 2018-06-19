@@ -14,10 +14,8 @@ cols_for_test = ["quest", "answer"]
 
 if lang_test == "en":
     df = pd.read_csv(eng_test, sep=";", header=None, names=cols_for_test)
-    print("en")
 elif lang_test == "ru":
     df = pd.read_csv(rus_test, sep=";", header=None, names=cols_for_test)
-    print("ru")
 
 correct = 0
 wrong = 0
