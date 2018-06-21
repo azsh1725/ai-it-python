@@ -35,7 +35,7 @@ What is a drone;.*unmanned.*
 Hello;.*hello.*
 Good day;.*good day.*
 Bye;.*bye.*
-How many wings does the plane have;.*two.*
+How many wings does the plane have;.*(2|two).*
 How many people live in Moscow;.*(12|twelve).*
 How many rotor blades do helicopter have;.*(2|3|4|5|6|8).*
 Who is Bill Gates;.*microsoft.*
@@ -83,7 +83,7 @@ What is molybdenum?;.*metal.*
 Who is Peter Weir?;.*director-writer.*
 How many home runs did Babe Ruth hit in his lifetime?;.*(714|seven hundred and fourteen).*
 Where is the bridge over the river Kwai?;.*Thailand.*
-How many Superbowls have the 49ers won?;.*four.*
+How many Superbowls have the 49ers won?;.*(4|four).*
 Who was the architect of Central Park?;.*Olmstead.*
 Who invented paper?;.*China.*
 Name a tiger that is extinct?;.*Tasmanian.*
@@ -128,7 +128,7 @@ What tourist attractions are there in Reims?;.*Cathedral.*
 Name a film in which Jude Law acted.;.*Shopping.*
 Where are the U.S. headquarters for Procter & Gamble?;.*Ohio-based.*
 What do you call a group of geese?;.*gaggle.*
-How many months does a normal human pregnancy last?;.*nine.*
+How many months does a normal human pregnancy last?;.*(9|nine).*
 What format was VHS's main competition?;.*Beta.*
 What culture developed the idea of potlatch?;.*Indian.*
 Where is Logan International located?;.*Boston's.*
@@ -270,7 +270,7 @@ What is the collective term for geese?;.*gaggle.*
 What is the collective noun for geese?;.*gaggle.*
 What is the term for a group of geese?;.*gaggle.*
 What is the name given to a group of geese?;.*gaggle.*
-A normal human pregnancy lasts how many months?;.*nine.*
+A normal human pregnancy lasts how many months?;.*(9|nine).*
 What was the alternate to VHS?;.*Beta.*
 What video format was an alternative to VHS?;.*Beta.*
 What format was the major competition of VHS?;.*Beta.*
